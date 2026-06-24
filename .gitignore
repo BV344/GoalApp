@@ -1,0 +1,22 @@
+# Go
+/backend/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Node / pnpm
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
