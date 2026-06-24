@@ -1,0 +1,1 @@
+This project is intended to be a project that will utilize a bunch of DevSecOps skills I've actually used in my CLAUDE DevSecOps Class.
